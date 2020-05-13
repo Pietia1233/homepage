@@ -1,0 +1,28 @@
+body{
+    background:lightslategray;
+}
+
+h2{
+    color:#1460AA;
+}
+h3{
+    color:orange;
+}
+header{
+    color:lightpink;
+}
+.barwa{
+color: whitesmoke;
+margin: 0.5cm;
+}
+
+.level{
+color: papayawhip;
+}
+.poziom{
+   padding-left: 16cm;
+}
+.level1{
+    color: aqua;
+    text-transform: capitalize;
+}
